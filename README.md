@@ -40,7 +40,7 @@ O projeto já possui integração com **Room Database** para persistência local
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/app-endereco-cep.git
+git clone https://github.com/HelioSaraiva/RoomMaisApiViaCepAutoCompletar.git
 ```
 
 2. Abra no **Android Studio (Arctic Fox ou superior)**
